@@ -1,0 +1,23 @@
+{
+  "name": "kawan-sehat-indonesia-qa-lead-test",
+  "version": "1.0.0",
+  "description": "Untuk menjalankan project, anda harus melakukan beberapa step terlebih dahulu yaitu :\r 1. Install [Node JS](https://nodejs.org/en/download/current)\r 2. Install [Visual Studio Code](https://code.visualstudio.com/download)\r 3. Install plugins playwright di Visual Studio Code\r 4. Clone project ini\r 5. Buka terminal, ketik \"npm init playwright@latest\" dan execute",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myougi/Kawan-Sehat-Indonesia-QA-Lead-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Myougi/Kawan-Sehat-Indonesia-QA-Lead-Test/issues"
+  },
+  "homepage": "https://github.com/Myougi/Kawan-Sehat-Indonesia-QA-Lead-Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
